@@ -3,7 +3,7 @@
     <Html>
       <Head>
         <Title>rcco.dev</Title>
-        <Link rel="icon" href="/public/favicon.ico" type="image/x-icon" />
+        <Link rel="icon" href="/favicon.ico" type="image/x-icon" />
       </Head>
     </Html>
     <Welcome />
