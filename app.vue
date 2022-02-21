@@ -1,5 +1,11 @@
 <template>
   <div>
+    <Html>
+      <Head>
+        <Title>rcco.dev</Title>
+        <Link rel="icon" href="/public/favicon.ico" type="image/x-icon" />
+      </Head>
+    </Html>
     <Welcome />
   </div>
 </template>
